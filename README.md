@@ -6,6 +6,6 @@
 ##### Insight 2:
 ![image](https://user-images.githubusercontent.com/104772356/194638150-0da12505-cbf5-4700-a87a-e5b9b85cc2e3.png)
 
-### [Requirimentos e ferramentas usadas](https://github.com/Gustavomichel/Exploratory-data-analysis-Brazil-indigenous-land/blob/master/requirements.txt)
+### [Requerimentos e ferramentas usadas](https://github.com/Gustavomichel/Exploratory-data-analysis-Brazil-indigenous-land/blob/master/requirements.txt)
 
 
