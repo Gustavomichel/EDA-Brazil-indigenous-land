@@ -1,7 +1,7 @@
 # TERRAS INDIGENAS BRASILEIRAS 2017
 
 #### Insight 1:
-![image](https://user-images.githubusercontent.com/104772356/194680078-8aa10d7a-e4ad-4e53-b4af-417b919578b5.png)
+![image](https://user-images.githubusercontent.com/104772356/194725852-0c7f2bd6-2c30-4228-9968-f10a5f3a56ee.png)
 
 ##### Insight 2:
 ![image](https://user-images.githubusercontent.com/104772356/194680066-1d9cc263-8c22-44ee-9fc1-62e3ee2c701f.png)
