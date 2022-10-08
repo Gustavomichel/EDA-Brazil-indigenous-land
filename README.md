@@ -1,10 +1,10 @@
 # TERRAS INDIGENAS BRASILEIRAS 2017
 
 #### Insight 1:
-![image](https://user-images.githubusercontent.com/104772356/194637724-6200f8e7-08ac-49ef-ad0c-a4d61b1d702b.png)
+![image](https://user-images.githubusercontent.com/104772356/194680078-8aa10d7a-e4ad-4e53-b4af-417b919578b5.png)
 
 ##### Insight 2:
-![image](https://user-images.githubusercontent.com/104772356/194638150-0da12505-cbf5-4700-a87a-e5b9b85cc2e3.png)
+![image](https://user-images.githubusercontent.com/104772356/194680066-1d9cc263-8c22-44ee-9fc1-62e3ee2c701f.png)
 
 ### [Requerimentos e ferramentas usadas](https://github.com/Gustavomichel/Exploratory-data-analysis-Brazil-indigenous-land/blob/master/requirements.txt)
 
